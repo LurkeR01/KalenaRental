@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalenaRental", "KalenaRental\KalenaRental.csproj", "{43C43EDD-8597-4A4D-B645-E697F802EBC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalenaRental.Api", "KalenaRental.Api\KalenaRental.Api.csproj", "{43C43EDD-8597-4A4D-B645-E697F802EBC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalenaRental.Domain", "KalenaRental.Domain\KalenaRental.Domain.csproj", "{0DFFE94B-9E69-4ECB-A184-C5C601C83CA9}"
 EndProject

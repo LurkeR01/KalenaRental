@@ -1,1 +1,69 @@
-.idea
+# =========================
+# .NET
+# =========================
+
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider / JetBrains
+.idea/
+
+# =========================
+# Test / coverage
+# =========================
+
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# =========================
+# Build / publish
+# =========================
+
+publish/
+artifacts/
+
+# =========================
+# Logs
+# =========================
+
+*.log
+logs/
+
+# =========================
+# Environment / secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Local configuration
+# =========================
+
+appsettings.Local.json
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Frontend
+# =========================
+
+node_modules/
+dist/
