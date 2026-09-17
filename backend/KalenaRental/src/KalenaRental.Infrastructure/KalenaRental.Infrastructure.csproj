@@ -21,6 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\KalenaRental.Application\KalenaRental.Application.csproj" />
       <ProjectReference Include="..\KalenaRental.Domain\KalenaRental.Domain.csproj" />
     </ItemGroup>
 
